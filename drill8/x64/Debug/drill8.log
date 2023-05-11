@@ -1,0 +1,6 @@
+﻿  my.cpp
+  use.cpp
+C:\Users\olejn\Desktop\c++\drill8\drill8\use.cpp(30,18): warning C4244: "argument": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\olejn\Desktop\c++\drill8\drill8\use.cpp(30,13): warning C4244: "argument": konwersja z "double" do "const int", możliwa utrata danych
+  Generowanie kodu...
+  drill8.vcxproj -> C:\Users\olejn\Desktop\c++\drill8\x64\Debug\drill8.exe
